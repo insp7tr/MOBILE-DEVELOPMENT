@@ -1,2 +1,9 @@
-# MOBILE-DEVELOPEMNT
-My repo to store all my Mobile Application related projects
+# MOBILE-DEVELOPMENT
+
+STORES
+- FLUTTER
+- JAVA
+- SWIFT
+
+DIRECTORIES
+- FULL-STACK-DEVELOPMENT - Stores backend and frontend projects.
